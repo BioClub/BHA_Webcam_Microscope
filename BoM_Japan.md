@@ -10,13 +10,13 @@ Also, make sure you have enough 3mm material to cut the design from.
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|ウェブカメラ|[Tweakers Pricewatch](http://tweakers.net/categorie/289/webcams/producten/#filter:q1bKL0pJLXLLTM1JUbJSKijKzCpW0oEIBucXlQDFEouT4SIFqcmeQHW6hrUA)|7.00|
-|2|2|M3 16mm ボルト|[Monotaro](https://www.monotaro.com/g/00010573/?t.q=m3%20%83%7B%83%8B%83g)||
-|3|1|M3 10 mm ボルト|[Monotaro](https://www.monotaro.com/g/00010573/?t.q=m3%20%83%7B%83%8B%83g)||
-|4|3|M3 ナット|[Bevestigingsmateriaal.nl](https://www.bevestigingsmateriaal.nl/bevestigingsmateriaal/moeren/zeskantmoer-din-934/din-934-rvs-a2)||
-|5|1|5mm 白 LEDs|[iPrototype](https://iprototype.nl/products/components/led-lcd/ledwit), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=9088), [Hackerstore](https://www.hackerstore.nl/Artikel/257)|0.18|
-|6|4|3mm 白 LEDs|[Farnell](http://nl.farnell.com/multicomp/ovl-3321/led-3mm-bright-white-8cd/dp/1716696)|0.45|
-|7|5|220Ω 抵抗|[Hackerstore](https://www.hackerstore.nl/Artikel/478), [Farnell](http://nl.farnell.com/multicomp/mcf-0-25w-220r/resistor-carbon-film-220r-0-25w/dp/9339299?Ntt=9339299), [iPrototype](https://iprototype.nl/products/components/resistors/220R), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=7085)|0.02|
-|8|1|Arduino|[Hackerstore](https://www.hackerstore.nl/Artikel/17)|12.95|
+|2|2|M3 16mm ボルト|[Monotaro](https://www.monotaro.com/g/00010573/)||
+|3|1|M3 10 mm ボルト|[Monotaro](https://www.monotaro.com/g/00010573/)||
+|4|3|M3 ナット|[Monotaro](https://www.monotaro.com/g/00010503/)||
+|5|1|5mm 白 LEDs|[Monotaro](https://www.monotaro.com/g/00959141/)|0.18|
+|6|4|3mm 白 LEDs|[Monotaro](https://www.monotaro.com/g/00959135/)|0.45|
+|7|5|220Ω 抵抗|[Akizuki](http://akizukidenshi.com/catalog/g/gR-25221/)|0.02|
+|8|1|Arduino|[Monotaro](https://www.monotaro.com/g/02359602/),[Akizuki](http://akizukidenshi.com/catalog/g/gM-07385/),[Amazon](http://amzn.asia/hOQyqxl)|12.95|
 
 You will also need:
 
