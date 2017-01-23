@@ -10,8 +10,8 @@ Also, make sure you have enough 3mm material to cut the design from.
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|ウェブカメラ|[Tweakers Pricewatch](http://tweakers.net/categorie/289/webcams/producten/#filter:q1bKL0pJLXLLTM1JUbJSKijKzCpW0oEIBucXlQDFEouT4SIFqcmeQHW6hrUA)|7.00|
-|2|2|M3 16mm ボルト|[Bevestigingsmateriaal.nl](https://www.bevestigingsmateriaal.nl/bevestigingsmateriaal/bouten-schroeven/buitenzeskant-kop/tapbouten-din-933/din-933-rvs-a2)||
-|3|1|M3 10 mm ボルト|[Bevestigingsmateriaal.nl](https://www.bevestigingsmateriaal.nl/bevestigingsmateriaal/bouten-schroeven/buitenzeskant-kop/tapbouten-din-933/din-933-rvs-a2)||
+|2|2|M3 16mm ボルト|[Monotaro](https://www.monotaro.com/g/00010573/?t.q=m3%20%83%7B%83%8B%83g)||
+|3|1|M3 10 mm ボルト|[Monotaro](https://www.monotaro.com/g/00010573/?t.q=m3%20%83%7B%83%8B%83g)||
 |4|3|M3 ナット|[Bevestigingsmateriaal.nl](https://www.bevestigingsmateriaal.nl/bevestigingsmateriaal/moeren/zeskantmoer-din-934/din-934-rvs-a2)||
 |5|1|5mm 白 LEDs|[iPrototype](https://iprototype.nl/products/components/led-lcd/ledwit), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=9088), [Hackerstore](https://www.hackerstore.nl/Artikel/257)|0.18|
 |6|4|3mm 白 LEDs|[Farnell](http://nl.farnell.com/multicomp/ovl-3321/led-3mm-bright-white-8cd/dp/1716696)|0.45|
